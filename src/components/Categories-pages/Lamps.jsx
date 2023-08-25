@@ -1,15 +1,13 @@
-import CategoriesItemLamps from "./CategoriesItemLamps";
-import Footer from "../Footer";
-import Newsletter from "../Newsletter";
+import CategoriesItemLamps from './CategoriesItemLamps';
+import Footer from '../Footer';
 
 function Lamps() {
-  return (
-    <>
-      <CategoriesItemLamps />
-      <Newsletter />
-      <Footer />
-    </>
-  );
+	return (
+		<>
+			<CategoriesItemLamps />
+			<Footer />
+		</>
+	);
 }
 
 export default Lamps;

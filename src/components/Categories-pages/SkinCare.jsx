@@ -1,15 +1,14 @@
-import CategoriesItemSkinCare from "./CategoriesItemSkinCare";
-import Footer from "../Footer";
-import Newsletter from "../Newsletter";
+import CategoriesItemSkinCare from './CategoriesItemSkinCare';
+import Footer from '../Footer';
 
 function SkinCare() {
-  return (
-    <>
-      <CategoriesItemSkinCare />
-      <Newsletter />
-      <Footer />
-    </>
-  );
+	return (
+		<>
+			<CategoriesItemSkinCare />
+
+			<Footer />
+		</>
+	);
 }
 
 export default SkinCare;

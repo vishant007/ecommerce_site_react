@@ -1,15 +1,14 @@
-import CategoriesItemElectronics from "./CategoriesItemElectronics";
-import Footer from "../Footer";
-import Newsletter from "../Newsletter";
+import CategoriesItemElectronics from './CategoriesItemElectronics';
+import Footer from '../Footer';
 
 function Electronics() {
-  return (
-    <>
-      <CategoriesItemElectronics />
-      <Newsletter />
-      <Footer />
-    </>
-  );
+	return (
+		<>
+			<CategoriesItemElectronics />
+
+			<Footer />
+		</>
+	);
 }
 
 export default Electronics;

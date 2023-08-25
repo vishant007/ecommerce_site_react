@@ -1,15 +1,13 @@
-import CategoriesItemKitchen from "./CategoriesItemKitchen";
-import Footer from "../Footer";
-import Newsletter from "../Newsletter";
+import CategoriesItemKitchen from './CategoriesItemKitchen';
+import Footer from '../Footer';
 
 function Kitchen() {
-  return (
-    <>
-      <CategoriesItemKitchen />
-      <Newsletter />
-      <Footer />
-    </>
-  );
+	return (
+		<>
+			<CategoriesItemKitchen />
+			<Footer />
+		</>
+	);
 }
 
 export default Kitchen;

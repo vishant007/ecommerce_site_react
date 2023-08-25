@@ -1,15 +1,14 @@
-import CategoriesItemFurniture from "./CategoriesItemFurniture";
-import Footer from "../Footer";
-import Newsletter from "../Newsletter";
+import CategoriesItemFurniture from './CategoriesItemFurniture';
+import Footer from '../Footer';
 
 function Furnitures() {
-  return (
-    <>
-      <CategoriesItemFurniture />
-      <Newsletter />
-      <Footer />
-    </>
-  );
+	return (
+		<>
+			<CategoriesItemFurniture />
+
+			<Footer />
+		</>
+	);
 }
 
 export default Furnitures;
