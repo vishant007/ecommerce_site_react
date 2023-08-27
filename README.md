@@ -30,3 +30,11 @@ The logic of the website is straightforward and aimed at providing a user-friend
 ## User Authentication
 
 - User Authentication is done by adding firebase to React Project.
+
+## To run the project locally:
+
+- Fork Repo
+- Install NPM Modules
+- Start the server
+
+- Happy Hacking!! 
