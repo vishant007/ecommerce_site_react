@@ -31,6 +31,10 @@ The logic of the website is straightforward and aimed at providing a user-friend
 
 - User Authentication is done by adding firebase to React Project.
 
+## Deployment
+
+- Deployed through Vercel
+
 ## To run the project locally:
 
 - Fork Repo
